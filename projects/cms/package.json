@@ -5,6 +5,7 @@
     "@angular/common": "^9.0.2",
     "@angular/core": "^9.0.2",
     "@angular/router": "^9.0.2",
+    "@akrons/core": "1.x",
     "rxjs": "^6.5.4",
     "tslib": "^1.10.0"
   }
